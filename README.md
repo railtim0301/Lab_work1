@@ -5,10 +5,10 @@
 ## Описание проекта
 Проект посвящён анализу данных квалификационных сессий Формулы 1. Включает первичный обзор данных, аудит качества и разведочный анализ.
 
-## Структура проекта
+# Структура проекта
 
-# README.md
-# notebooks/ 01_data_understanding.ipynb
-# data/qualifying.csv # Исходные данные
-# data/qualifying_processed.csv # Обработанные данные
-# report/quality_report.md # Отчёт о качестве данных
+### README.md
+### notebooks/ 01_data_understanding.ipynb
+### data/qualifying.csv # Исходные данные
+### data/qualifying_processed.csv # Обработанные данные
+### report/quality_report.md # Отчёт о качестве данных
