@@ -7,7 +7,7 @@
 
 ## Структура проекта
 
-#README.md
+# README.md
 # notebooks/ 01_data_understanding.ipynb
 # data/qualifying.csv # Исходные данные
 # data/qualifying_processed.csv # Обработанные данные
